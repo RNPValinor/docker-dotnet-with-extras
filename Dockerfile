@@ -1,6 +1,6 @@
-FROM microsoft/dotnet:2.2.102-sdk
+FROM microsoft/dotnet:2.2.104-sdk
 
-LABEL version="2.2.102"
+LABEL version="2.2.104"
 LABEL maintainer="Solidatus"
 
 # Install dependencies
